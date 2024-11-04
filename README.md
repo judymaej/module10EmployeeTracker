@@ -109,6 +109,12 @@ The application provides a main menu with options to:
 
 Click [here](https://drive.google.com/file/d/1mP3t8U9a-kXzkr4xbpmtvd09h6hUx3zG/view?usp=sharing) to watch a walkthrough video of the Employee Tracker application.
 
+## **Support**
+
+In this project, I utilized peer support in the queries.js file. Collaborating with peers helped improve the functionality and user experience of the candidate search feature.
+
+Additionally I used learning assistant generating code for both the index.js and the queries.js files.
+
 ## License
 
 This project is licensed under the MIT License.
