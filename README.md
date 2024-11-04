@@ -117,6 +117,8 @@ Author: Judymae Jolibois
 
 GitHub: judymaejolibois
 
+Github Repo Link : https://github.com/judymaej/module10EmployeeTracker
+
 ## Additional Notes
 
 If you have any issues running the application or encounter errors with database connectivity, make sure your PostgreSQL server is running and that the database connection settings in queries.js are correct.
